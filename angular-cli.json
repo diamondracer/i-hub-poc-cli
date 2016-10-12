@@ -16,9 +16,9 @@
       "mobile": false,
       "styles": [
         "styles.css"
-      ],
-      "scripts": [],
-      "environments": {
+      ], 
+      "scripts": [ "../node_modules/ng2-bootstrap/bundles/ng2-bootstrap.min.js" ],
+      "environments": { 
         "source": "environments/environment.ts",
         "dev": "environments/environment.ts",
         "prod": "environments/environment.prod.ts"
